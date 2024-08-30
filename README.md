@@ -50,12 +50,12 @@ MHAD_Dataset
  |   |   |   |-- output2.avi       #90-degree side
  |   |   |   |-- output3.avi       #45-degree side
  |   |   |   |-- sub01_a_1.csv     #gt
- |   |   |-- 2/                    #Reading
+ |   |   |-- 2/                    #Using phone
  |   |   |   |-- output1.avi
  |   |   |   |-- output2.avi
  |   |   |   |-- output3.avi
  |   |   |   |-- sub01_a_2.csv
- |   |   |-- 3/                    #Using phone
+ |   |   |-- 3/                    #Reading
  |   |   |   |-- output1.avi
  |   |   |   |-- output2.avi
  |   |   |   |-- output3.avi
