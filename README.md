@@ -47,65 +47,65 @@ MHAD_Dataset
  |   |-- a/
  |   |   |-- 1/
  |   |   |   |-- output1.avi       #fontal
- |   |   |   |-- output2.avi       #45-degree side
- |   |   |   |-- output3.avi       #90-degree side
+ |   |   |   |-- output2.avi       #90-degree side
+ |   |   |   |-- output3.avi       #45-degree side
  |   |   |   |-- sub01_a_1.csv     #gt
  |   |   |-- 2/
  |   |   |   |-- output1.avi
  |   |   |   |-- output2.avi
  |   |   |   |-- output3.avi
- |   |   |   |-- sub01_a_1.csv
+ |   |   |   |-- sub01_a_2.csv
  |   |   |-- 3/
  |   |   |   |-- output1.avi
  |   |   |   |-- output2.avi
  |   |   |   |-- output3.avi
- |   |   |   |-- sub01_a_1.csv
+ |   |   |   |-- sub01_a_3.csv
  |   |   |-- 4/
  |   |   |   |-- output1.avi
  |   |   |   |-- output2.avi
  |   |   |   |-- output3.avi
- |   |   |   |-- sub01_a_1.csv
+ |   |   |   |-- sub01_a_4.csv
  |   |   |-- 5/
  |   |   |   |-- output1.avi
  |   |   |   |-- output2.avi
  |   |   |   |-- output3.avi
- |   |   |   |-- sub01_a_1.csv
+ |   |   |   |-- sub01_a_5.csv
  |   |   |-- 6/
  |   |   |   |-- output1.avi
  |   |   |   |-- output2.avi
  |   |   |   |-- output3.avi
- |   |   |   |-- sub01_a_1.csv
+ |   |   |   |-- sub01_a_6.csv
  |   |-- b/
  |   |   |-- 1/
  |   |   |   |-- output1.avi
  |   |   |   |-- output2.avi
  |   |   |   |-- output3.avi
- |   |   |   |-- sub01_a_1.csv
+ |   |   |   |-- sub01_b_1.csv
  |   |   |-- 2/
  |   |   |   |-- output1.avi
  |   |   |   |-- output2.avi
  |   |   |   |-- output3.avi
- |   |   |   |-- sub01_a_1.csv
+ |   |   |   |-- sub01_b_2.csv
  |   |   |-- 3/
  |   |   |   |-- output1.avi
  |   |   |   |-- output2.avi
  |   |   |   |-- output3.avi
- |   |   |   |-- sub01_a_1.csv
+ |   |   |   |-- sub01_b_3.csv
  |   |   |-- 4/
  |   |   |   |-- output1.avi
  |   |   |   |-- output2.avi
  |   |   |   |-- output3.avi
- |   |   |   |-- sub01_a_1.csv
+ |   |   |   |-- sub01_b_4.csv
  |   |   |-- 5/
  |   |   |   |-- output1.avi
  |   |   |   |-- output2.avi
  |   |   |   |-- output3.avi
- |   |   |   |-- sub01_a_1.csv
+ |   |   |   |-- sub01_b_5.csv
  |   |   |-- 6/
  |   |   |   |-- output1.avi
  |   |   |   |-- output2.avi
  |   |   |   |-- output3.avi
- |   |   |   |-- sub01_a_1.csv
+ |   |   |   |-- sub01_b_6.csv
  |-- sub40/
  |   ...
 -----------------
