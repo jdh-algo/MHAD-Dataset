@@ -44,38 +44,38 @@ MHAD_Dataset
  -----------------
  MHAD/
  |-- sub01/
- |   |-- a/
- |   |   |-- 1/
+ |   |-- a/                        #Before exercise
+ |   |   |-- 1/                    #Watching tv
  |   |   |   |-- output1.avi       #fontal
  |   |   |   |-- output2.avi       #90-degree side
  |   |   |   |-- output3.avi       #45-degree side
  |   |   |   |-- sub01_a_1.csv     #gt
- |   |   |-- 2/
+ |   |   |-- 2/                    #Reading
  |   |   |   |-- output1.avi
  |   |   |   |-- output2.avi
  |   |   |   |-- output3.avi
  |   |   |   |-- sub01_a_2.csv
- |   |   |-- 3/
+ |   |   |-- 3/                    #Using phone
  |   |   |   |-- output1.avi
  |   |   |   |-- output2.avi
  |   |   |   |-- output3.avi
  |   |   |   |-- sub01_a_3.csv
- |   |   |-- 4/
+ |   |   |-- 4/                    #Talking
  |   |   |   |-- output1.avi
  |   |   |   |-- output2.avi
  |   |   |   |-- output3.avi
  |   |   |   |-- sub01_a_4.csv
- |   |   |-- 5/
+ |   |   |-- 5/                    #Eating
  |   |   |   |-- output1.avi
  |   |   |   |-- output2.avi
  |   |   |   |-- output3.avi
  |   |   |   |-- sub01_a_5.csv
- |   |   |-- 6/
+ |   |   |-- 6/                    #Drinking
  |   |   |   |-- output1.avi
  |   |   |   |-- output2.avi
  |   |   |   |-- output3.avi
  |   |   |   |-- sub01_a_6.csv
- |   |-- b/
+ |   |-- b/                        #After exercise
  |   |   |-- 1/
  |   |   |   |-- output1.avi
  |   |   |   |-- output2.avi
