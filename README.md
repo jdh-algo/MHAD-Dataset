@@ -46,101 +46,65 @@ MHAD_Dataset
  |-- sub01/
  |   |-- a/
  |   |   |-- 1/
- |   |   |   |-- output1.avi
- |   |   |   |-- output2.avi
- |   |   |   |-- output3.avi
- |   |   |   |-- time1.txt
- |   |   |   |-- time2.txt
- |   |   |   |-- time3.txt
- |   |   |   |-- sub01_a_1.csv
+ |   |   |   |-- output1.avi       #fontal
+ |   |   |   |-- output2.avi       #45-degree side
+ |   |   |   |-- output3.avi       #90-degree side
+ |   |   |   |-- sub01_a_1.csv     #gt
  |   |   |-- 2/
  |   |   |   |-- output1.avi
  |   |   |   |-- output2.avi
  |   |   |   |-- output3.avi
- |   |   |   |-- time1.txt
- |   |   |   |-- time2.txt
- |   |   |   |-- time3.txt
  |   |   |   |-- sub01_a_1.csv
  |   |   |-- 3/
  |   |   |   |-- output1.avi
  |   |   |   |-- output2.avi
  |   |   |   |-- output3.avi
- |   |   |   |-- time1.txt
- |   |   |   |-- time2.txt
- |   |   |   |-- time3.txt
  |   |   |   |-- sub01_a_1.csv
  |   |   |-- 4/
  |   |   |   |-- output1.avi
  |   |   |   |-- output2.avi
  |   |   |   |-- output3.avi
- |   |   |   |-- time1.txt
- |   |   |   |-- time2.txt
- |   |   |   |-- time3.txt
  |   |   |   |-- sub01_a_1.csv
  |   |   |-- 5/
  |   |   |   |-- output1.avi
  |   |   |   |-- output2.avi
  |   |   |   |-- output3.avi
- |   |   |   |-- time1.txt
- |   |   |   |-- time2.txt
- |   |   |   |-- time3.txt
  |   |   |   |-- sub01_a_1.csv
  |   |   |-- 6/
  |   |   |   |-- output1.avi
  |   |   |   |-- output2.avi
  |   |   |   |-- output3.avi
- |   |   |   |-- time1.txt
- |   |   |   |-- time2.txt
- |   |   |   |-- time3.txt
  |   |   |   |-- sub01_a_1.csv
  |   |-- b/
  |   |   |-- 1/
  |   |   |   |-- output1.avi
  |   |   |   |-- output2.avi
  |   |   |   |-- output3.avi
- |   |   |   |-- time1.txt
- |   |   |   |-- time2.txt
- |   |   |   |-- time3.txt
  |   |   |   |-- sub01_a_1.csv
  |   |   |-- 2/
  |   |   |   |-- output1.avi
  |   |   |   |-- output2.avi
  |   |   |   |-- output3.avi
- |   |   |   |-- time1.txt
- |   |   |   |-- time2.txt
- |   |   |   |-- time3.txt
  |   |   |   |-- sub01_a_1.csv
  |   |   |-- 3/
  |   |   |   |-- output1.avi
  |   |   |   |-- output2.avi
  |   |   |   |-- output3.avi
- |   |   |   |-- time1.txt
- |   |   |   |-- time2.txt
- |   |   |   |-- time3.txt
  |   |   |   |-- sub01_a_1.csv
  |   |   |-- 4/
  |   |   |   |-- output1.avi
  |   |   |   |-- output2.avi
  |   |   |   |-- output3.avi
- |   |   |   |-- time1.txt
- |   |   |   |-- time2.txt
- |   |   |   |-- time3.txt
  |   |   |   |-- sub01_a_1.csv
  |   |   |-- 5/
  |   |   |   |-- output1.avi
  |   |   |   |-- output2.avi
  |   |   |   |-- output3.avi
- |   |   |   |-- time1.txt
- |   |   |   |-- time2.txt
- |   |   |   |-- time3.txt
  |   |   |   |-- sub01_a_1.csv
  |   |   |-- 6/
  |   |   |   |-- output1.avi
  |   |   |   |-- output2.avi
  |   |   |   |-- output3.avi
- |   |   |   |-- time1.txt
- |   |   |   |-- time2.txt
- |   |   |   |-- time3.txt
  |   |   |   |-- sub01_a_1.csv
  |-- sub40/
  |   ...
