@@ -113,5 +113,6 @@ MHAD_Dataset
 
 
 ## 📄 Citation
+https://www.arxiv.org/abs/2409.09366
 Title: [MHAD: Multimodal Home Activity Dataset with Multi-Angle Videos and Synchronized Physiological Signals]
 
