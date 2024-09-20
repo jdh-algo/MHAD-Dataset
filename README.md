@@ -113,6 +113,13 @@ MHAD_Dataset
 
 
 ## 📄 Citation
-https://www.arxiv.org/abs/2409.09366
-Title: [MHAD: Multimodal Home Activity Dataset with Multi-Angle Videos and Synchronized Physiological Signals]
+@misc{yu2024mhadmultimodalhomeactivity,
+      title={MHAD: Multimodal Home Activity Dataset with Multi-Angle Videos and Synchronized Physiological Signals}, 
+      author={Lei Yu and Jintao Fei and Xinyi Liu and Yang Yao and Jun Zhao and Guoxin Wang and Xin Li},
+      year={2024},
+      eprint={2409.09366},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2409.09366}, 
+}
 
