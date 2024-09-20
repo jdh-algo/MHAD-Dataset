@@ -13,6 +13,8 @@ Video Data: Multi-angle video recordings of subjects in various household scenar
 
 Annotations: Detailed annotations for each scenario and physiological signal.
 
+![pipeline图](./pics/pipeline.png)
+
 ## 🗝️ Access and Usage
 **This dataset is built for academic use. Any commercial usage is banned.**  
 To gain access to the MHAD Dataset, please follow these steps:
