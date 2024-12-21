@@ -1,4 +1,4 @@
-# MHAD: Multimodal Home Activity Dataset with Multi-Angle Videos and Synchronized Physiological Signals
+# MHAD: Multimodal Home Activity Dataset with Multi-Angle Videos and Synchronized Physiological Signals (ICASSP 2025)
 
 ## 📖 Description
 
